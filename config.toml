@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "http://sepaintwash.netlify.app"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -16,8 +16,6 @@ title = "Straight Edge Painting and Power-Washing"
 
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
-    detailed_page_homepage_content = false
-
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     #favicon = "images/paint-brush-icon-9026.png"
 
